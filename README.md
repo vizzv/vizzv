@@ -4,7 +4,10 @@
 ![githubbanner  (1)](https://user-images.githubusercontent.com/66671671/166403048-505a02f6-d6b4-4f84-a6ab-0f0e6a4e7c2c.png)
 
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vizzv&label=Profile%20views&color=0e75b6&style=flat" alt="vizzv" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/66671671/167860404-67c4386b-01b1-4933-a23b-b8c0b8526ab9.gif"  alt="vizzv"  height="240" width="240" align="right"/> </p>
 
 - 🔭 I’m currently working on [Naag](https://github.com/vizzv/naag)
 
@@ -13,6 +16,7 @@
 - 📫 How to reach me **vishwa10032003@gmail.com**
 
 - ⚡ Fun fact **I think, I am funny 😉**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
