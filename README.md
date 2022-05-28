@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vizzv&label=Profile%20views&color=0e75b6&style=flat" alt="vizzv" /> </p>
 <p align="left"> <img src="https://user-images.githubusercontent.com/66671671/167860404-67c4386b-01b1-4933-a23b-b8c0b8526ab9.gif"  alt="vizzv"  height="240" width="240" align="right"/> </p>
 
-- 🔭 I’m currently working on [Naag](https://github.com/vizzv/naag)
+- 🔭 I’m currently working on [copyCat](https://github.com/vizzv/copyCat)
 
 - 🌱 I’m currently learning **kotlin**
 
