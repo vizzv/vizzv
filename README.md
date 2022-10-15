@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [copyCat](https://github.com/vizzv/copyCat)
 
-- 🌱 I’m currently learning **kotlin**
+- 🌱 I’m currently learning **Robocon 2023**
 
 - 📫 How to reach me **vishwa10032003@gmail.com**
 
