@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on copycat
 
-- 🌱 I’m currently learning **Kotlin**
+- 👯 I’m looking to collaborate with other developers and contribute to various open source projects
 
 - 📫 How to reach me **vishwa10032003@gmail.com**
 
-- ⚡ Fun fact **I think, I am funny 😉**
+- ⚡ open to work on anything
 
 
 <h3 align="left">Connect with me:</h3>
