@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vizzv&label=Profile%20views&color=0e75b6&style=flat" alt="vizzv" /> </p>
 
 
-- 🔭 I’m currently working on copycat
+- 🔭 I’m currently learning Android with kotlin
 
 - 👯 I’m looking to collaborate with other developers and contribute to various open source projects
 
