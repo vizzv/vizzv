@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishw</h1>
 <h3 align="center">An explorer from India</h3>
 
-![githubbanner  (1)](https://user-images.githubusercontent.com/66671671/166403048-505a02f6-d6b4-4f84-a6ab-0f0e6a4e7c2c.png)
-
+![CSE Student want to change world by developing new twchnololgies](https://user-images.githubusercontent.com/66671671/232200273-a32f6120-ca2b-468b-abc6-49fd062ab121.png)
 
 
 
