@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishw</h1>
 <h3 align="center">An explorer from India</h3>
 
-![CSE Student want to change world by developing new twchnololgies](https://user-images.githubusercontent.com/66671671/232200273-a32f6120-ca2b-468b-abc6-49fd062ab121.png)
-
-
+![CSE Student want to change world by developing new technologies](https://github.com/vizzv/vizzv/assets/66671671/0c644f37-51ea-44c3-b4ac-5127a3d2e5bd)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vizzv&label=Profile%20views&color=0e75b6&style=flat" alt="vizzv" /> </p>
 
